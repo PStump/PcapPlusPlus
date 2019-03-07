@@ -1,6 +1,7 @@
 #include "PcapDevice.h"
 #include "Logger.h"
 #include <pcap.h>
+#include <Packet32.h> // win32Hack
 
 namespace pcpp
 {

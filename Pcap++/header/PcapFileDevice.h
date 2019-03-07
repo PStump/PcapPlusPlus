@@ -3,6 +3,7 @@
 
 #include "PcapDevice.h"
 #include "RawPacket.h"
+#include <Packet32.h> // win32Hack
 
 /// @file
 
